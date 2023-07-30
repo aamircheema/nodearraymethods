@@ -5,6 +5,8 @@ const capitals = ['Mosco', 'Washington', 'Beijing', 'Islamabad', 'Paris' ];
 const numOfCapital  = capitals.length;
 
 console.log(numOfCapital);
+//input = const numOfCapital  = capitals.length;
+//output = 5
 
 
 // Array push method
